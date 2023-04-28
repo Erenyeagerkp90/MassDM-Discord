@@ -13,3 +13,6 @@ This script allows you to send mass messages to multiple Discord users and promo
 
 ### DISCLAIMER: This program is created for educational purposes only. The author does not endorse or condone any illegal activity, and the use of this program for any malicious purposes is strictly prohibited. Please use this program responsibly and at your own risk.
 
+
+![Language](https://img.shields.io/badge/language-Python-blue.svg) ![Issues](https://img.shields.io/github/issues/iKonra/MassDM-Discord) ![Stars](https://badgen.net/github/stars/iKonra/MassDM-Discord)
+
