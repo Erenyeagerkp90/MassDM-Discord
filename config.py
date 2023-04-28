@@ -1,8 +1,13 @@
 # Place your DM message here
-dm_message = """IceCraft.CLUB"""
+dm_message = """Example Message
+
+
+
+
+
+"""
 
 # Time (in seconds) to wait after sending one DM.
-# This is how you can control the DM speed.
 # Smaller values will send DMs faster, bigger values will send DMs slower.
 # Be reasonable as this determines how long an account lasts.
 # You have to restart the bot after changing this setting.
